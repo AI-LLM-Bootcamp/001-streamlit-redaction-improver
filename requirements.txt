@@ -1,3 +1,4 @@
 langchain
 openai
 streamlit
+langchain-openai

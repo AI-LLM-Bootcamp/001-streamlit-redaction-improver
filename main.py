@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain import PromptTemplate
-from langchain.llms import OpenAI
+from langchain_openai import OpenAI
 
 
 template = """
